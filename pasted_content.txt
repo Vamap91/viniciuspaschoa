@@ -1,0 +1,86 @@
+🧠 Instrução ao designer ou desenvolvedor do Manus:
+
+Você foi contratado para criar uma **landing page pessoal de altíssimo impacto visual**, com foco em **autoridade em IA aplicada, geração de curiosidade e agendamento de reuniões estratégicas**.
+
+O resultado deve ser uma página que **mistura storytelling, tecnologia e imersão**, seguindo como inspiração o site [https://lusion.co/] — ou seja, animações sutis, experiência visual rica, estilo limpo e moderno.
+
+A página será posteriormente migrada para o Lovable, por isso a estrutura precisa ser pensada em blocos reutilizáveis e responsivos. O foco é deixar o visitante encantado com a jornada visual e convencido de que precisa marcar uma conversa com Vinícius.
+
+---
+
+🧑‍💼 **Perfil do dono da página:**
+Vinícius Augusto Martins de Araújo Paschoa  
+Especialista em Inteligência Artificial aplicada a negócios  
+Cidadão português, brasileiro, pai do Joaquim, com atuação em grandes empresas (Vallourec, Carglass) e criador de soluções próprias em IA.
+
+---
+
+🎯 **Objetivos da página:**
+1. Apresentar Vinícius como um solucionador de problemas complexos com IA
+2. Divulgar seus projetos com forte apelo visual
+3. Estimular o visitante a agendar uma reunião via Calendly
+4. Ter versão bilíngue (Português e Inglês)
+
+---
+
+🎨 **Estilo visual:**
+- Base visual moderna como o site Lusion.co
+- Estética escura com detalhes em vermelho, dourado suave ou branco puro
+- Tipografia imersiva, efeitos de scroll reveal, paralaxe sutil e interações ao passar o mouse
+- Zero uso de traços ou divisores lineares (visual limpo)
+
+---
+
+📐 **Estrutura da página (por blocos):**
+
+1. **Header de impacto total**
+   - Frase em destaque:  
+     _“Você está prestes a conhecer o Vinícius. Não um perfil. Um sistema vivo que transforma IA em impacto real.”_
+   - Botão visível: [Vamos conversar]
+
+2. **Sobre Mim**
+   - Texto animado com storytelling real: engenheiro → IA → impacto empresarial → visão global
+   - Destaques visuais: cidadania europeia, visão de produto, execução elegante, fluência em tecnologia
+
+3. **Projetos com cards interativos (estilo Lusion)**
+   - **MindGlass** – IA para sugestões de melhoria contínua
+   - **HeatGlass** – Análise emocional de áudios com impacto comercial
+   - **Oráculo** – RAG + OCR para inteligência documental
+   - **MirrorGlass** – Auditoria de projetos limpa e precisa
+   - **Tindra Car** – Plataforma de negociação de veículos com IA e integração via FlutterFlow
+
+4. **Bloco de “Como posso te ajudar”**
+   - IA para empresas
+   - Automatização de processos complexos
+   - Diagnóstico técnico com auditoria por IA
+   - Desenvolvimento de produtos inteligentes
+
+5. **Galeria pessoal (opcional)**
+   - Foto com o filho (humaniza)
+   - Foto em momento de trabalho (tecnológica e real)
+   - Prints de projetos (modo mockup flutuante, estilo Apple)
+
+6. **Frases de impacto (como depoimentos ou quotes)**
+   - Estilo carrossel ou reveladas no scroll
+   - Podem ser frases reais de colegas ou provocações estratégicas
+
+7. **Call to Action final**
+   - Frase: _“Me chama pra uma conversa e eu te mostro algo que você ainda não viu.”_
+   - Botão: [Agendar reunião] → link do Calendly
+
+8. **Footer funcional**
+   - Links: LinkedIn, GitHub, e-mail
+   - Botão de idioma: 🇧🇷 PT | 🇬🇧 EN
+
+---
+
+🔄 **Outros pontos importantes:**
+- O design deve gerar **curiosidade e sensação de exclusividade**
+- Precisa ser 100% mobile friendly
+- Pensar em como o mesmo visual funcionará bem quando for convertido para Lovable
+- O layout final deve causar esta reação:  
+  _“Eu não sei exatamente o que esse cara faz, mas eu **preciso** conversar com ele.”_
+
+---
+
+📌 Quando finalizado, vamos usar esse design como base para replicar no Lovable com blocos reutilizáveis.
